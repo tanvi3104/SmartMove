@@ -1,3 +1,6 @@
+git rm <file_name>
+
+
 /**
  * @file config/db.js
  * @description MongoDB connection logic using mongoose.
