@@ -1,4 +1,4 @@
-git rm <file_name>
+git rm <db.js>
 
 
 /**
