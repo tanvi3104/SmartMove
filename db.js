@@ -1,5 +1,3 @@
-git rm <db.js>
-
 
 /**
  * @file config/db.js
